@@ -4,7 +4,7 @@ body {
 
 p {
     font-weight: bold; font-family: Clarendon BT;
-    font-size: 120px;
+    font-size: 150px;
     text-align: center;
     color: #FFFF00;
     letter-spacing: 2px;
@@ -24,7 +24,7 @@ h2 {
   }
 
 .img-logo {
-        width: 145px;
+        width: 160px;
   }
 
 .nav ul {
@@ -58,7 +58,7 @@ button {
     background-color: #333333;
     color: #FFFFFF;
     border-radius: 10px;
-    width: 10%;
+    width: 15%;
     padding: 20px;
     font-size: 16px;
 }
